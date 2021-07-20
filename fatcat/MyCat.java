@@ -19,6 +19,7 @@ public class MyCat extends Cat
         *sleep(3);
         *shoutHooray();
         **/
+        sleep(2);//durmamos un poquito
         if (isBored())
         {
             dance();
